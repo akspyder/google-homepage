@@ -19,3 +19,16 @@
 	width: auto;
 	margin-top: -.3em;
 }
+
+#content {
+	position: absolute;
+	width: 100%;	
+	top: 30%;
+}
+
+#logo {
+	margin: auto;
+	max-width: 15em;
+	width: 15em;
+	height: 5em;
+}
