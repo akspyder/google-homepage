@@ -40,6 +40,14 @@ a {
 	width: 20em;
 	height: 6em;
 	text-align: center;
+	margin-bottom: 1em;
+}
+
+#search_box {
+	margin: auto;
+	width: 30em;
+	height: 2em;
+	border: .1em solid gray;
 }
 
 #button_div {
