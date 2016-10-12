@@ -1,0 +1,21 @@
+
+#container {
+}
+
+#navbar {	
+	width: 100%;
+	height: 2em;
+}
+
+.nav_items {
+	position: relative;	
+	display: inline;
+	float: right;
+	padding: 1em;
+}
+
+#apps_icon img {
+	height: 2em;
+	width: auto;
+	margin-top: -.3em;
+}
